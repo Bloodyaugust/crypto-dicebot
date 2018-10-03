@@ -1,0 +1,30 @@
+{
+  "name": "crypto-dicebot",
+  "version": "0.0.1",
+  "description": "A dicebot for slack that uses the Crypto module.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bloodyaugust/crypto-dicebot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "dice",
+    "crypto"
+  ],
+  "author": "Greyson Richey",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Bloodyaugust/crypto-dicebot/issues"
+  },
+  "homepage": "https://github.com/Bloodyaugust/crypto-dicebot#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "random-number-csprng": "^1.0.2",
+    "serverless-offline": "^3.25.17"
+  }
+}
