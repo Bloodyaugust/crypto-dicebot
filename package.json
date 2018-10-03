@@ -1,6 +1,6 @@
 {
   "name": "crypto-dicebot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A dicebot for slack that uses the Crypto module.",
   "main": "handler.js",
   "scripts": {
